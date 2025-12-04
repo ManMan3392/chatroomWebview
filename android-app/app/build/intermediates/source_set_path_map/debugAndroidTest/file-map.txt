@@ -1,6 +1,0 @@
-com.example.hybridchat.test.app-jetified-annotation-experimental-1.3.0-0 C:\Users\24697\.gradle\caches\transforms-3\1f3abe10d1870e2a226e8cc9c7e7eb3b\transformed\jetified-annotation-experimental-1.3.0\res
-com.example.hybridchat.test.app-jetified-core-1.5.0-1 C:\Users\24697\.gradle\caches\transforms-3\924342396859e64b96e62978ea61b85d\transformed\jetified-core-1.5.0\res
-com.example.hybridchat.test.app-androidTest-2 D:\byteDanceHomework\class3\android-app\app\build\generated\res\resValues\androidTest\debug
-com.example.hybridchat.test.app-mergeDebugAndroidTestResources-3 D:\byteDanceHomework\class3\android-app\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
-com.example.hybridchat.test.app-mergeDebugAndroidTestResources-4 D:\byteDanceHomework\class3\android-app\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
-com.example.hybridchat.test.app-merged_res-5 D:\byteDanceHomework\class3\android-app\app\build\intermediates\merged_res\debugAndroidTest

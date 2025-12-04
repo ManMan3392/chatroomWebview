@@ -1,3 +1,0 @@
-com.example.hybridchat.test
-style WhiteBackgroundDialogTheme
-style WhiteBackgroundTheme
