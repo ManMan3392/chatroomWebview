@@ -36,7 +36,7 @@ wss.on("connection", (ws, req) => {
   });
 });
 
-const PORT = process.env.PORT || 3000;
+const PORT = process.env.PORT || 8000;
 server.listen(PORT, "0.0.0.0", () => {
   console.log(`服务器正在监听端口 ${PORT}`);
   console.log(`请在浏览器中打开 http://localhost:${PORT}`);

@@ -10,7 +10,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
   function initializeChat(currentUserId) {
     // 动态获取当前页面的主机名，适配 localhost 和 局域网 IP
-    const wsUrl = `ws://${window.location.hostname}:3000`;
+    const wsUrl = `ws://${window.location.hostname}:8000`;
     console.log(`[Client] 尝试连接到 WebSocket 服务器: ${wsUrl}`);
     const ws = new WebSocket(wsUrl);
 

@@ -1,1 +1,23 @@
+# Node.js
 node_modules/
+npm-debug.log
+yarn-error.log
+pnpm-debug.log
+.env
+
+# Android
+.gradle/
+local.properties
+.idea/
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+*.apk
+*.ap_
+output.json
+
+# Android App specific
+android-app/app/build/
+android-app/.gradle/
